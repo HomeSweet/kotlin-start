@@ -11,7 +11,7 @@ import org.junit.Test
  * Extension function scope
  * Extension function and Java
  */
-class ExampleUnitTest {
+class ExtensionFunctions {
   @Test
   fun testDeclare() {
     //Declare extension func
